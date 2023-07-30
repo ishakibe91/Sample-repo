@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #A076F9;
+}
+
+@media (max-width : 768px) {
+  body {
+    background-color: #FFCACC;
+  }
+}
+
+/* @media (min-width : 1024px) {
+  body {
+    background-color: #F4D160;
+  }
+}
+
+@media (min-width : 1280px) {
+  body {
+    background-color: #A2FF86;
+  }
+} */
